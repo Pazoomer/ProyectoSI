@@ -2,3 +2,4 @@ pip
 Flask
 gunicorn
 flask-mysqldb
+flask_caching
