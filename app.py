@@ -1,10 +1,10 @@
-
+"""
 py -m pip install Flask-Caching
 py -m pip install Flask-MySQLdb
 py -m pip install Flask
 py -m pip install Flask-Session
 py -m pip install Flask-MySQL
-
+"""
 
 from flask import Flask, render_template, request, redirect, url_for, session
 from flask_mysqldb import MySQL
