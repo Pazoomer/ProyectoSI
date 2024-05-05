@@ -1,5 +1,4 @@
-Flask
-gunicorn
-MySQLdb
 base64
 pip
+Flask
+gunicorn
