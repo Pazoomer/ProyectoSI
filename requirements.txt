@@ -1,2 +1,5 @@
 Flask
 gunicorn
+MySQLdb
+base64
+pip
